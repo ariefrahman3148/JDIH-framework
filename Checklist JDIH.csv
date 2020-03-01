@@ -1,0 +1,39 @@
+﻿No.;Nama Bagian;Keterangan;Jawa Timur;Jawa Tengah;Jawa Barat;DKI Jakarta;DI Jogjakarta;Banten
+;;;https://jdih.jatimprov.go.id/ ;https://jdih.jatengprov.go.id/ ;http://jdih.jabarprov.go.id/ ;https://jdih.jakarta.go.id/;http://birohukum.jogjaprov.go.id/ ;https://jdih.bantenprov.go.id/ 
+1;a. Logo Pengayoman / JDIH Pusat;Header;1;1;1;1;1;1
+;b. Banner Header & Logo Anggota Jaringan;Header;1;1;1;1;1;1
+2;a. Halaman Utama;Home / halaman utama ketika user mengakses website JDIH;1;1;1;1;1;1
+;b. Visi & Misi;Merupakan menu dinamis yang dapat diubah di halaman CMS admin.;;;;;;
+;;Halaman yang berisi Visi dan Misi Pusat Jaringan Dokumentasi dan Informasi Hukum Nasional.;1;1;1;1;1;1
+;c. Sejarah JDIH;Merupakan menu dinamis yang dapat diubah di halaman CMS admin.;;;;;;
+;;Halaman yang berisi sejarah singkat Jaringan Dokumentasi dan Informasi Hukum Nasional.;0;1;1;0;0;0
+;d. Profil;Merupakan menu dinamis yang dapat diubah di halaman CMS admin.;;;;;;
+;;Halaman yang berisi Profil singkat mengenai website anggota Jaringan Dokumentasi dan Informasi Hukum Nasional ini.;1;1;1;1;1;1
+;e. Peraturan;Halaman yang berisi core/bagian penting dari website JDIH yang berisi produk hukum berupa peraturan. Peraturan itu sendiri berupa: ;;;;;;
+;;"a. Peraturan Pusat : Undang-Undang (UU); Peraturan Pengganti Undangundang (PERPU); Peraturan Pemerintah (PP); Peraturan Presiden (PR); Keputusan Presiden (KP); Instruksi Presiden (IP) ";1;1;1;1;0;1
+;;"b. Peraturan Daerah : Peraturan Daerah (PERDA); Peraturan Gubernur (PERGUB); Keputusan Gubernur (KEPGUB); Intruksi Gubernur (INGUB); Peraturan Bupati / Walikota; Keputusan Bupati / Walikota; Intruksi Bupati / Walikota; Peraturan Desa (PERDES) ";1;1;1;1;1;1
+;;"c. Peraturan Kementerian /LPND : Peraturan Kementerian (PM); Keputusan Menteri (KM); Surat Edaran (SE)";1;0;0;1;0;0
+;f. Kotak Saran;Halaman yang berguna untuk menampung masukan dari pengunjung atau masyarakat umum.;1;1;1;1;1;0
+3;Non-Peraturan;Halaman yang berisi data-data produk hukum Non Peraturan, dapat berupa buku-buku hsail tulisan yang diperbolehkan dipublikasikan atau pun produk hukum lainnya.;0;0;1;1;1;0
+4;Link Terkait;Halaman yang berisi kumpulan link didalam Situs Pusat Jaringan, maupun situs anggota JDIH yang lainnya.;1;1;1;1;1;1
+5;Statistik Pengunjung;Halaman yang berisik data statistik pengunjung website JDIH.;1;1;1;1;1;0
+6;a. Informasi tanggal; -;1;1;1;1;1;1
+;b. Running Text;Informasi singkat / sambutan selamat datang kepada user atau pengunjung;1;1;0;1;1;1
+;c. Pencarian peraturan berdasarkan subjek / judul peraturan ];Fungsi pencarian peraturan berdasarkan subjek atau Tentang Peraturan yang akan dicari;1;1;1;1;1;1
+7;Berita Hukum Terbaru;Halaman yang menampilkan Berita Hukum.;1;1;1;1;1;1
+8;a. Pencarian Peraturan;Form pencarian peratuan yang dapat mencari peraturan berdasarkan:;;;;;;
+;;Jeis Peraturan;1;1;1;1;1;1
+;;Nomor Peraturan;1;1;1;1;1;1
+;;Tahun Peraturan;1;1;1;1;1;1
+;;Tentang;1;1;1;1;1;1
+;;Status Akhir Peraturan;1;0;0;0;1;0
+;b. Pencarian Non-Peraturan;Form pencarian produk hukum NonPeraturan berupa buku-buku hasil tulisan yang dapat dipublikasikan, berdasarkan :;;;;;;
+;;Judul Buku;0;0;1;1;1;0
+;;Pengarang Buku;0;0;0;0;0;0
+;;Penerbut Buku;0;0;0;0;0;0
+;;Kota Terbit;0;0;0;0;0;0
+;;Tehun Terbit;0;0;1;0;1;0
+9;Peraturan Terbaru;Halaman yang menampilkan peraturan yang terbaru diupload kedalam website JDIH;1;1;1;1;1;0
+10;Pengetahuan Hukum Praktis;Halaman yang menampilkan informasiinformasi mengenai pengetahuna hukum praktis, seperti contoh pembentukkan peraturan perundang-undangan menurut UU 21 Tahun 2011.;1;1;0;1;0;0
+11;Informasi alamat dari anggota JDIH / alamat pemilik website JDIH;Footer;1;1;1;1;1;1
+;Kelengkapan;;77%;73%;77%;80%;77%;57%
